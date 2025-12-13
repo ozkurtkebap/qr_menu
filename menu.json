@@ -1,0 +1,245 @@
+{
+  "Dürümler": [
+    {
+      "isim": "Et Beyti Dürüm",
+      "aciklama": "Baharatlı kıyma, lavaş içinde, yoğurt ve sos ile.",
+      "fiyat": "250 TL",
+      "resim": "images/et_beyti.jpg"
+    },
+    {
+      "isim": "Ciğer Dürüm",
+      "aciklama": "Mangalda pişmiş ciğer, baharat ve soğanla lavaşta servis edilir.",
+      "fiyat": "130 TL",
+      "resim": "images/ciger_durum.jpg"
+    },
+    {
+      "isim": "Adana Dürüm",
+      "aciklama": "Baharatlı Adana kebap, lavaş arasında soğan, domates ve maydanozla.",
+      "fiyat": "130 TL",
+      "resim": "images/adana_durum.jpg"
+    },
+    {
+      "isim": "Kuşbaşı Dürüm",
+      "aciklama": "Izgara kuşbaşı dana eti, yumuşak lavaşta sebzelerle.",
+      "fiyat": "130 TL",
+      "resim": "images/kusbasi_durum.jpg"
+    },
+    {
+      "isim": "Çift Şiş Dürüm",
+      "aciklama": "Mangalda pişmiş istediğiniz çift şişözel dürüm.",
+      "fiyat": "240 TL",
+      "resim": "images/harbiye_durum.jpg"
+    },
+    {
+      "isim": "Tavuk Dürüm",
+      "aciklama": "Baharatlı tavuk parçaları, lavaşta soğan ve maydanozla.",
+      "fiyat": "130 TL",
+      "resim": "images/tavuk_durum.jpg"
+    }
+  ],
+
+  "Porsiyonlar": [
+    {
+      "isim": "Ciğer Porsiyon",
+      "aciklama": "Çift şiş baharatlı ciğer, pilav ve salata ile.",
+      "fiyat": "370 TL",
+      "resim": "images/ciger_porsiyon.jpg"
+    },
+    {
+      "isim": "Tavuk Porsiyon",
+      "aciklama": "Çift şiş baharatlı tavuk, pilav ve salata ile.",
+      "fiyat": "370 TL",
+      "resim": "images/kanat_porsiyon.jpg"
+    },
+    {
+      "isim": "Kuşbaşı Porsiyon",
+      "aciklama": "Mangalda ızgara kuşbaşı dana eti, pilav ve közlenmiş sebzelerle.",
+      "fiyat": "370 TL",
+      "resim": "images/kusbasi_porsiyon.jpg"
+    },
+    {
+      "isim": "Adana Porsiyon",
+      "aciklama": "Baharatlı Adana kebap, pilav ve garnitür ile.",
+      "fiyat": "370 TL",
+      "resim": "images/adana_porsiyon.jpg"
+    },
+        {
+      "isim": "Urfa Porsiyon",
+      "aciklama": "Baharatlı Adana kebap, pilav ve garnitür ile.",
+      "fiyat": "370 TL",
+      "resim": "images/adana_porsiyon.jpg"
+    },
+    {
+      "isim": "Bıçak Kıyması Porsiyon",
+      "aciklama": "Elle çekilmiş dana kıyma kebap, köz biber ve pilavla servis edilir.",
+      "fiyat": "370 TL",
+      "resim": "images/bicakkiymasi_porsiyon.jpg"
+    },
+    {
+      "isim": "Çöp Şiş Porsiyon",
+      "aciklama": "Mangalda pişmiş et veya tavuk şişler, pirinç pilavı ile.",
+      "fiyat": "400 TL",
+      "resim": "images/cop_sis.jpeg"
+    }
+  ]
+,
+"Kebaplar": [
+  {
+    "isim": "Patlıcan Kebabı",
+    "aciklama": "Mangalda pişmiş dana kıyma ve közlenmiş patlıcanın muhteşem uyumu.",
+    "fiyat": "400 TL",
+    "resim": "images/patlıcan_kebap.jpg"
+  },
+  {
+    "isim": "Köfte",
+    "aciklama": "Izgarada pişmiş köfte, közlenmiş domates ve biber eşliğinde.",
+    "fiyat": "450 TL",
+    "resim": "images/köfte.jpg"
+  },
+  {
+    "isim": "Kağıt Kebabı",
+    "aciklama": "Fırında pişen dana eti, baharatlı sebzelerle servis edilir.",
+    "fiyat": "450 TL",
+    "resim": "images/kagıt_kebap.jpg"
+  },
+  {
+    "isim": "Yoğurtlu Beyti Sarma",
+    "aciklama": "Baharatlı kebap, lavaşa sarılır; yoğurt ve tereyağı sosuyla sunulur.",
+    "fiyat": "450 TL",
+    "resim": "images/yogurtlu_beyti.jpg"
+  },
+  {
+    "isim": "Et Pirzola Porsiyon",
+    "aciklama": "Mangalda pişmiş yumuşak et pirzola, pilav ve köz garnitürle.",
+    "fiyat": "500 TL",
+    "resim": "images/pirzola.jpg"
+  },
+  {
+    "isim": "Tavuk Pirzola",
+    "aciklama": "Izgarada marine tavuk pirzola, garnitürlerle birlikte.",
+    "fiyat": "400 TL",
+    "resim": "images/tavuk_pirzola.jpg"
+  },
+  {
+    "isim": "Kaşarlı Beyti",
+    "aciklama": "Özel baharatlı ezme üzerinde sunulan kebap lezzeti.",
+    "fiyat": "450 TL",
+    "resim": "images/kş.jpg"
+  },
+  {
+    "isim": "Biftek",
+    "aciklama": "Yumuşak ve sulu ızgara biftek.",
+    "fiyat": "500 TL",
+    "resim": "images/et_bonfile.jpg"
+  }
+],
+
+"Mezeler": [
+  {
+    "isim": "Humus",
+    "aciklama": "Nohut, tahin, limon ve sızma zeytinyağı ile hazırlanmış meze.",
+    "fiyat": "70 TL",
+    "resim": "images/humus.jpg"
+  },
+  {
+    "isim": "Havuç Tarator",
+    "aciklama": "Rendelenmiş havuç, yoğurt ve sarımsak karışımı.",
+    "fiyat": "70 TL",
+    "resim": "images/havuç.jpg"
+  },
+  {
+    "isim": "Cevizli Biber",
+    "aciklama": "Ezilmiş ceviz, biber ve baharat karışımıyla hazırlanan meze.",
+    "fiyat": "70 TL",
+    "resim": "images/cevizili.jpg"
+  },
+  {
+    "isim": "Küçük Salata",
+    "aciklama": "Mevsim yeşillikleri ve zeytinyağlı sos.",
+    "fiyat": "40 TL",
+    "resim": "images/bsalata.jpg"
+  },
+  {
+    "isim": "Büyük Salata",
+    "aciklama": "Taze karışık mevsim salatası.",
+    "fiyat": "80 TL",
+    "resim": "images/bsalata.jpg"
+  },
+  {
+    "isim": "Prenses (Mor Lahana)",
+    "aciklama": "Mor lahana ve yoğurt karışımı.",
+    "fiyat": "70 TL",
+    "resim": "images/prenses.jpg"
+  },
+  {
+    "isim": "Yoğurtlu Patlıcan",
+    "aciklama": "Közlenmiş patlıcan ve yoğurtla hazırlanmış közlü meze.",
+    "fiyat": "70 TL",
+    "resim": "images/ypatlıcan.jpg"
+  },
+  {
+    "isim": "Acılı Ezme",
+    "aciklama": "Domates, biber ve ince doğranmış soğan karışımıyla hazırlanan meze.",
+    "fiyat": "70 TL",
+    "resim": "images/acılı.jpg"
+  }
+ 
+],
+
+"İçecekler": [
+  {
+    "isim": "Kutu Kola",
+    "aciklama": "330 ml soğuk kola.",
+    "fiyat": "60 TL",
+    "resim": "images/kkola.jpg"
+  },
+  {
+    "isim": "Kapalı Ayran",
+    "aciklama": "Taze ev yapımı ayran.",
+    "fiyat": "30 TL",
+    "resim": "images/kayran.jpg"
+  },
+  {
+    "isim": "Açık Ayran",
+    "aciklama": "Soğuk büyük boy ev yapımı ayran.",
+    "fiyat": "30 TL",
+    "resim": "images/aayran.jpg"
+  },
+  {
+    "isim": "Şalgam",
+    "aciklama": "Adana usulü şalgam suyu.",
+    "fiyat": "30 TL",
+    "resim": "images/salgam.jpg"
+  },
+  {
+    "isim": "Soda",
+    "aciklama": "Doğal maden suyu.",
+    "fiyat": "20 TL",
+    "resim": "images/soda.jpg"
+  },
+  {
+    "isim": "Fanta",
+    "aciklama": "Klasik gazoz lezzeti.",
+    "fiyat": "60 TL",
+    "resim": "images/fanta.jpg"
+  },
+  {
+    "isim": "Kola (1 LT)",
+    "aciklama": "Soğuk 1 litrelik kola.",
+    "fiyat": "70 TL",
+    "resim": "images/kola1.jpg"
+  },
+  {
+    "isim": "Kola (2.5 LT)",
+    "aciklama": "Soğuk 2.5 litrelik kola.",
+    "fiyat": "100 TL",
+    "resim": "images/kola2.jpg"
+  },
+  {
+    "isim": "Su (Küçük)",
+    "aciklama": "0.5 L doğal su.",
+    "fiyat": "10 TL",
+    "resim": "images/su.jpeg"
+  }
+]
+}
