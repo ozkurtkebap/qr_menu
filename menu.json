@@ -138,19 +138,19 @@
   {
     "isim": "Humus",
     "aciklama": "Nohut, tahin, limon ve sızma zeytinyağı ile hazırlanmış meze.",
-    "fiyat": "70 TL",
+    "fiyat": "100 TL",
     "resim": "images/humus.jpg"
   },
   {
     "isim": "Havuç Tarator",
     "aciklama": "Rendelenmiş havuç, yoğurt ve sarımsak karışımı.",
-    "fiyat": "70 TL",
+    "fiyat": "100 TL",
     "resim": "images/havuç.jpg"
   },
   {
     "isim": "Cevizli Biber",
     "aciklama": "Ezilmiş ceviz, biber ve baharat karışımıyla hazırlanan meze.",
-    "fiyat": "70 TL",
+    "fiyat": "100 TL",
     "resim": "images/cevizili.jpg"
   },
   {
@@ -168,29 +168,34 @@
   {
     "isim": "Prenses (Mor Lahana)",
     "aciklama": "Mor lahana ve yoğurt karışımı.",
-    "fiyat": "70 TL",
+    "fiyat": "100 TL",
     "resim": "images/prenses.jpg"
   },
   {
     "isim": "Yoğurtlu Patlıcan",
     "aciklama": "Közlenmiş patlıcan ve yoğurtla hazırlanmış közlü meze.",
-    "fiyat": "70 TL",
+    "fiyat": "100 TL",
     "resim": "images/ypatlıcan.jpg"
   },
   {
     "isim": "Acılı Ezme",
     "aciklama": "Domates, biber ve ince doğranmış soğan karışımıyla hazırlanan meze.",
-    "fiyat": "70 TL",
+    "fiyat": "100 TL",
     "resim": "images/acılı.jpg"
-  }
- 
+  },
+  {
+    "isim": "Ordör Tabağı",
+    "aciklama": "5 çeşit mezeden oluşan meze tabağı.",
+    "fiyat": "150 TL",
+    "resim": ""
+  } 
 ],
 
 "İçecekler": [
   {
     "isim": "Kutu Kola",
     "aciklama": "330 ml soğuk kola.",
-    "fiyat": "60 TL",
+    "fiyat": "50 TL",
     "resim": "images/kkola.jpg"
   },
   {
@@ -220,7 +225,7 @@
   {
     "isim": "Fanta",
     "aciklama": "Klasik gazoz lezzeti.",
-    "fiyat": "60 TL",
+    "fiyat": "50 TL",
     "resim": "images/fanta.jpg"
   },
   {
@@ -244,3 +249,4 @@
 ]
 
 }
+
