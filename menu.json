@@ -9,19 +9,19 @@
     {
       "isim": "Ciğer Dürüm",
       "aciklama": "Mangalda pişmiş ciğer, baharat ve soğanla lavaşta servis edilir.",
-      "fiyat": "130 TL",
+      "fiyat": "140 TL",
       "resim": "images/ciger_durum.jpg"
     },
     {
       "isim": "Adana Dürüm",
       "aciklama": "Baharatlı Adana kebap, lavaş arasında soğan, domates ve maydanozla.",
-      "fiyat": "130 TL",
+      "fiyat": "140 TL",
       "resim": "images/adana_durum.jpg"
     },
     {
       "isim": "Kuşbaşı Dürüm",
       "aciklama": "Izgara kuşbaşı dana eti, yumuşak lavaşta sebzelerle.",
-      "fiyat": "130 TL",
+      "fiyat": "140 TL",
       "resim": "images/kusbasi_durum.jpg"
     },
     {
@@ -33,7 +33,7 @@
     {
       "isim": "Tavuk Dürüm",
       "aciklama": "Baharatlı tavuk parçaları, lavaşta soğan ve maydanozla.",
-      "fiyat": "130 TL",
+      "fiyat": "140 TL",
       "resim": "images/tavuk_durum.jpg"
     }
   ],
@@ -249,5 +249,6 @@
 ]
 
 }
+
 
 
